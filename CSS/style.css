@@ -1,0 +1,31 @@
+footer{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+body{
+    background-color:beige;
+    color:black;
+    font-family: Arial,helvetica,sans-serif;
+    text-align:center;
+}
+a{
+    color:skyblue;
+    text-decoration: none;;
+}
+a:hover{
+    color:red;
+    text-decoration: none;
+}
+h1{
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+}
+p{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+h2{
+    color:blue;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
